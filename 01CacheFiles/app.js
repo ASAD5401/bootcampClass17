@@ -11,3 +11,4 @@ if ("serviceWorker" in navigator) {
 } else {
   console.log("Service Worker is not available");
 }
+8
